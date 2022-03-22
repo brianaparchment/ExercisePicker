@@ -4,10 +4,10 @@ import csv
 import random
 
 
-file_name = "ExercisePicker/Exercises.csv"
+file_name = "/Users/briana/Documents/ExercisePicker/Exercises.csv"
 
 
-#opens csv file
+#opens csv files
 with open(file_name, newline='') as file_csv:
     read = csv.reader(file_csv, delimiter=',')
     name_list = [] #Empty list to store exc names
