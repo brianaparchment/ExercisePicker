@@ -4,7 +4,7 @@ import csv
 import random
 
 
-file_name = "/Users/briana/Desktop/Programming for Informatics/SimpleExercisePicker/Exercises.csv"
+file_name = "ExercisePicker/Exercises.csv"
 
 
 #opens csv file
